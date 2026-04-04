@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Download Zhihu content (articles, answers, videos, columns) as Markdown
-// @author       Glenn
+// @author       chenchen
 // @match        *://zhuanlan.zhihu.com/p/*
 // @match        *://www.zhihu.com/question/*/answer/*
 // @match        *://www.zhihu.com/zvideo/*
