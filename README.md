@@ -3,8 +3,6 @@
 
 ⭐ **结合油猴丝滑转换**：通过 Tampermonkey 脚本实现知乎页面丝滑转换。
 
-https://github.com/user-attachments/assets/490e2c42-df4c-428d-9d4e-09b35461b47a
-
 ⭐ **支持最新 HTML 结构**：持续更新以适应知乎平台的变化。
 
 ![gif](https://github.com/chenluda/zhihu-download/assets/45784833/849366a0-19ac-43ff-8f13-54aff24c7df3)
