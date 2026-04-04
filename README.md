@@ -134,7 +134,3 @@ docker run --rm -p 5000:5000 registry.cn-xxx.aliyuncs.com/xxx/zhihu2markdown:lat
 * 2023-06-12：修复数学公式 Markdown 转换 bug。
 * 2023-05-29：适应知乎最新 HTML 结构。
 * 2023-11-16：优化链接等格式。
-
-## 6. 趋势
-
-[![Star History Chart](https://api.star-history.com/svg?repos=chenluda/zhihu-download&type=Date)
